@@ -1,0 +1,181 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "MJ & Sons Carpentry" [ref=e3] [cursor=pointer]:
+      - /url: "#home"
+      - img "MJ & Sons Carpentry" [ref=e4]
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Home" [ref=e7] [cursor=pointer]:
+          - /url: "#home"
+      - listitem [ref=e8]:
+        - link "About Us" [ref=e9] [cursor=pointer]:
+          - /url: "#about"
+      - listitem [ref=e10]:
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: "#services"
+      - listitem [ref=e12]:
+        - link "Our Work" [ref=e13] [cursor=pointer]:
+          - /url: "#work"
+      - listitem [ref=e14]:
+        - link "Contact" [ref=e15] [cursor=pointer]:
+          - /url: "#contact"
+  - generic [ref=e17]:
+    - paragraph [ref=e18]: Friendly and Professional
+    - heading "Carpentry Services" [level=1] [ref=e19]:
+      - text: Carpentry
+      - text: Services
+    - link "Get in Touch" [ref=e20] [cursor=pointer]:
+      - /url: "#contact"
+  - generic [ref=e21]:
+    - heading "About Us" [level=2] [ref=e22]
+    - paragraph [ref=e24]:
+      - text: MJ & Sons is
+      - strong [ref=e25]: a family run company
+      - text: specialising in bespoke carpentry solutions within the
+      - strong [ref=e26]: Greater London area
+      - text: . With
+      - strong [ref=e27]: over 25 years of experience
+      - text: working on residential carpentry projects, we pride ourselves on working collaboratively with our clients from initial concept through to completion — delivering high quality craftsmanship every time.
+  - generic [ref=e28]:
+    - heading "WHAT WE DO" [level=2] [ref=e29]
+    - paragraph [ref=e31]: These are some of our primary services but if you have other carpentry needs please get in touch as we offer other bespoke services as well.
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - img [ref=e34]
+        - heading "Cabinets, Wardrobes & Shelves" [level=3] [ref=e38]
+        - paragraph [ref=e39]: Custom fitted storage solutions for any space
+      - generic [ref=e40]:
+        - img [ref=e41]
+        - heading "Windows & Door Repairs" [level=3] [ref=e45]
+        - paragraph [ref=e46]: Repairs to windows, frames, sills. Door repair, hanging or replacement
+      - generic [ref=e47]:
+        - img [ref=e48]
+        - heading "Kitchen Fitting" [level=3] [ref=e53]
+        - paragraph [ref=e54]: Kitchen fitting and customisation to match tricky room shapes
+      - generic [ref=e55]:
+        - img [ref=e56]
+        - heading "Wooden Floor Installation" [level=3] [ref=e58]
+        - paragraph [ref=e59]: Floor board and parquet floor installation
+  - generic [ref=e60]:
+    - heading "Our Work" [level=2] [ref=e61]
+    - generic [ref=e63]:
+      - button "All" [ref=e64] [cursor=pointer]
+      - button "Cabinets, Wardrobes & Shelves" [ref=e65] [cursor=pointer]
+      - button "Kitchen" [ref=e66] [cursor=pointer]
+      - button "Floors" [ref=e67] [cursor=pointer]
+      - button "Doors" [ref=e68] [cursor=pointer]
+      - button "Other" [ref=e69] [cursor=pointer]
+    - generic [ref=e70]:
+      - img "Attic Storage" [ref=e72] [cursor=pointer]
+      - img "Bathroom Sink Cabinet" [ref=e74] [cursor=pointer]
+      - img "Bedroom Wardrobe" [ref=e76] [cursor=pointer]
+      - img "Book Shelves" [ref=e78] [cursor=pointer]
+      - img "Book Storage" [ref=e80] [cursor=pointer]
+      - img "Bookshelves" [ref=e82] [cursor=pointer]
+      - img "Corner Cabinet" [ref=e84] [cursor=pointer]
+      - img "Corner Wardrobe" [ref=e86] [cursor=pointer]
+      - img "Counter and Cupboard" [ref=e88] [cursor=pointer]
+      - img "Cupboard & Worksurface" [ref=e90] [cursor=pointer]
+      - img "Cupboards" [ref=e92] [cursor=pointer]
+      - img "Custom Shelves" [ref=e94] [cursor=pointer]
+      - img "Custom Storage" [ref=e96] [cursor=pointer]
+      - img "In-build Hangers" [ref=e98] [cursor=pointer]
+      - img "Kitchen Shelves" [ref=e100] [cursor=pointer]
+      - img "L-shaped Shelves" [ref=e102] [cursor=pointer]
+      - img "Living room" [ref=e104] [cursor=pointer]
+      - img "Livingroom Storage" [ref=e106] [cursor=pointer]
+      - img "Low Cupboards & Shelves" [ref=e108] [cursor=pointer]
+      - img "Modern Storage" [ref=e110] [cursor=pointer]
+      - img "Modern Wardrobe" [ref=e112] [cursor=pointer]
+      - img "Narrow Wardrobes" [ref=e114] [cursor=pointer]
+      - img "Nursery Cupboards & Shelves" [ref=e116] [cursor=pointer]
+      - img "Offset Shelf Unit" [ref=e118] [cursor=pointer]
+      - img "Ornate Corner Cabinet" [ref=e120] [cursor=pointer]
+      - img "Panelled Cabinet" [ref=e122] [cursor=pointer]
+      - img "Panelled Cupboards" [ref=e124] [cursor=pointer]
+      - img "Recessed Book Shelves" [ref=e126] [cursor=pointer]
+      - img "Screenshot_20210722_215419_com_edited" [ref=e128] [cursor=pointer]
+      - img "Shelves & Drawers" [ref=e130] [cursor=pointer]
+      - img "Shelves & Storage" [ref=e132] [cursor=pointer]
+      - img "Small Shelves" [ref=e134] [cursor=pointer]
+      - img "Understair Shoe Store" [ref=e136] [cursor=pointer]
+      - img "Wardrobe & Shelves" [ref=e138] [cursor=pointer]
+      - img "Wardrobe & Table" [ref=e140] [cursor=pointer]
+      - img "Wardrobe Doors" [ref=e142] [cursor=pointer]
+      - img "Wardrobe Sliding Doors" [ref=e144] [cursor=pointer]
+      - img "Wardrobe" [ref=e146] [cursor=pointer]
+      - img "Wine Bar" [ref=e148] [cursor=pointer]
+      - img "Fitted Kitchen" [ref=e150] [cursor=pointer]
+      - img "Kitchen & Shelves" [ref=e152] [cursor=pointer]
+      - img "Kitchen and Double Doors" [ref=e154] [cursor=pointer]
+      - img "Kitchen Front" [ref=e156] [cursor=pointer]
+      - img "Kitchen Side" [ref=e158] [cursor=pointer]
+      - img "Kitchen Worktop" [ref=e160] [cursor=pointer]
+      - img "Kitchen" [ref=e162] [cursor=pointer]
+      - img "Laminate Wood Floor" [ref=e164] [cursor=pointer]
+      - img "Laminate Wood Floor Side" [ref=e166] [cursor=pointer]
+      - img "Custom Frame" [ref=e168] [cursor=pointer]
+      - img "Custom Frame Edge" [ref=e170] [cursor=pointer]
+      - img "Door Catch" [ref=e172] [cursor=pointer]
+      - img "Door Handles" [ref=e174] [cursor=pointer]
+      - img "Hinge Side" [ref=e176] [cursor=pointer]
+      - img "Hinge Top" [ref=e178] [cursor=pointer]
+      - img "Natural Panel Door" [ref=e180] [cursor=pointer]
+      - img "Natural Wood Frame" [ref=e182] [cursor=pointer]
+      - img "Painted Front Door" [ref=e184] [cursor=pointer]
+      - img "Panelled Front Door" [ref=e186] [cursor=pointer]
+      - img "Solid Wood Door" [ref=e188] [cursor=pointer]
+      - img "Bannister" [ref=e190] [cursor=pointer]
+      - img "Bannister Side" [ref=e192] [cursor=pointer]
+      - img "Bench" [ref=e194] [cursor=pointer]
+      - img "Bottom Stair Gate" [ref=e196] [cursor=pointer]
+      - img "Built-in Storage" [ref=e198] [cursor=pointer]
+      - img "Glass Storage" [ref=e200] [cursor=pointer]
+      - img "Pallete Furniture" [ref=e202] [cursor=pointer]
+      - img "Stair Gate Closed" [ref=e204] [cursor=pointer]
+      - img "Stair Gate Open" [ref=e206] [cursor=pointer]
+      - img "Storage" [ref=e208] [cursor=pointer]
+      - img "Top Stair Gate" [ref=e210] [cursor=pointer]
+  - generic [ref=e211]:
+    - heading "Testimonials" [level=2] [ref=e212]
+    - generic [ref=e213]:
+      - button "Previous testimonial" [ref=e214] [cursor=pointer]: ‹
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - paragraph [ref=e217]: "\"Mica has almost become part of the family. He is incredibly friendly and hard working, and the quality of his work is exceptional.\""
+          - paragraph [ref=e218]: — George S
+        - generic:
+          - paragraph: "\"Mica's workmanship is exceptional. He took his time to craft beautiful wardrobes and bookshelves for us, exactly how we wanted them.\""
+          - paragraph: — Alexandra J
+        - generic:
+          - paragraph: "\"Mica and Branko did the most amazing job. We had bespoke bookshelves and kitchen benches made from scratch. The care and attention to detail was incredible. Impeccable craftmanship. I can't wait till we have more pieces we need making and would recommend them to all of my friends.\""
+          - paragraph: — Amelia
+        - generic:
+          - paragraph: "\"Branko completed some carpentry work to refit doors & frames at our home. The team were tidy, courteous & helpful throughout. When some additional hours were required to address a small issue, it was no problem for them & they kept going until the work was completed to the required standard. Branko also helpfully connected us with some other trades people to address other issues we had elsewhere in the house — he is super helpful, nothing is too much trouble!\""
+          - paragraph: — Kerry
+        - generic:
+          - paragraph: "\"Really impressed with the work carried out by Branko, outstanding attention to detail. Didn't leave the job unfinished and kept the place tidy too. Will definitely be using him again.\""
+          - paragraph: — Steve
+        - generic:
+          - paragraph: "\"Mihajlo and his son Branko have done work for me over the years, and it has always been of very high standard. They have worked at our rented flats, and our home as well. They have recommended equally good workmen when the work is not their specialty.\""
+          - paragraph: — Ibrahim
+      - button "Next testimonial" [ref=e219] [cursor=pointer]: ›
+    - generic [ref=e220]:
+      - button "Go to testimonial 1" [ref=e221] [cursor=pointer]
+      - button "Go to testimonial 2" [ref=e222] [cursor=pointer]
+      - button "Go to testimonial 3" [ref=e223] [cursor=pointer]
+      - button "Go to testimonial 4" [ref=e224] [cursor=pointer]
+      - button "Go to testimonial 5" [ref=e225] [cursor=pointer]
+      - button "Go to testimonial 6" [ref=e226] [cursor=pointer]
+  - generic [ref=e227]:
+    - heading "Contact Us" [level=2] [ref=e228]
+    - paragraph [ref=e230]:
+      - link "(+44) 7886 179038" [ref=e231] [cursor=pointer]:
+        - /url: tel:+447886179038
+    - generic [ref=e232]:
+      - textbox "Your Name" [ref=e233]
+      - textbox "Your Email" [ref=e234]
+      - textbox "Your Message" [ref=e235]
+      - button "Send Message" [ref=e236] [cursor=pointer]
+  - contentinfo [ref=e237]:
+    - paragraph [ref=e238]: © 2025 MJ & Sons Carpentry. All rights reserved.

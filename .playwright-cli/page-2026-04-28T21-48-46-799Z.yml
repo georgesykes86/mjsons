@@ -1,0 +1,148 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "MJ & Sons Carpentry" [ref=e3] [cursor=pointer]:
+      - /url: "#home"
+      - img "MJ & Sons Carpentry" [ref=e4]
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Home" [ref=e7] [cursor=pointer]:
+          - /url: "#home"
+      - listitem [ref=e8]:
+        - link "About Us" [ref=e9] [cursor=pointer]:
+          - /url: "#about"
+      - listitem [ref=e10]:
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: "#services"
+      - listitem [ref=e12]:
+        - link "Our Work" [ref=e13] [cursor=pointer]:
+          - /url: "#work"
+      - listitem [ref=e14]:
+        - link "Contact" [ref=e15] [cursor=pointer]:
+          - /url: "#contact"
+  - generic [ref=e17]:
+    - paragraph [ref=e18]: Friendly and Professional
+    - heading "Carpentry Services" [level=1] [ref=e19]:
+      - text: Carpentry
+      - text: Services
+    - link "Get in Touch" [ref=e20] [cursor=pointer]:
+      - /url: "#contact"
+  - generic [ref=e21]:
+    - heading "About Us" [level=2] [ref=e22]
+    - paragraph [ref=e24]:
+      - text: MJ & Sons is
+      - strong [ref=e25]: a family run company
+      - text: specialising in bespoke carpentry solutions within the
+      - strong [ref=e26]: Greater London area
+      - text: . With
+      - strong [ref=e27]: over 25 years of experience
+      - text: working on residential carpentry projects, we pride ourselves on working collaboratively with our clients from initial concept through to completion — delivering high quality craftsmanship every time.
+  - generic [ref=e28]:
+    - heading "Our Services" [level=2] [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - img "Cabinets, Wardrobes & Shelves" [ref=e33]
+        - generic [ref=e34]: Cabinets, Wardrobes & Shelves
+      - generic [ref=e35]:
+        - img "Kitchen Fitting" [ref=e36]
+        - generic [ref=e37]: Kitchen Fitting
+      - generic [ref=e38]:
+        - img "Wooden Floor Installation" [ref=e39]
+        - generic [ref=e40]: Wooden Floor Installation
+      - generic [ref=e41]:
+        - img "Windows & Door Repairs" [ref=e42]
+        - generic [ref=e43]: Windows & Door Repairs
+  - generic [ref=e44]:
+    - heading "Our Work" [level=2] [ref=e45]
+    - generic [ref=e47]:
+      - button "All" [ref=e48] [cursor=pointer]
+      - button "Cabinets, Wardrobes & Shelves" [ref=e49] [cursor=pointer]
+      - button "Kitchen" [ref=e50] [cursor=pointer]
+      - button "Floors" [ref=e51] [cursor=pointer]
+      - button "Doors" [ref=e52] [cursor=pointer]
+      - button "Other" [ref=e53] [cursor=pointer]
+    - generic [ref=e54]:
+      - img "Attic Storage" [ref=e56] [cursor=pointer]
+      - img "Bathroom Sink Cabinet" [ref=e58] [cursor=pointer]
+      - img "Bedroom Wardrobe" [ref=e60] [cursor=pointer]
+      - img "Book Shelves" [ref=e62] [cursor=pointer]
+      - img "Book Storage" [ref=e64] [cursor=pointer]
+      - img "Bookshelves" [ref=e66] [cursor=pointer]
+      - img "Corner Cabinet" [ref=e68] [cursor=pointer]
+      - img "Corner Wardrobe" [ref=e70] [cursor=pointer]
+      - img "Counter and Cupboard" [ref=e72] [cursor=pointer]
+      - img "Cupboard & Worksurface" [ref=e74] [cursor=pointer]
+      - img "Cupboards" [ref=e76] [cursor=pointer]
+      - img "Custom Shelves" [ref=e78] [cursor=pointer]
+      - img "Custom Storage" [ref=e80] [cursor=pointer]
+      - img "In-build Hangers" [ref=e82] [cursor=pointer]
+      - img "Kitchen Shelves" [ref=e84] [cursor=pointer]
+      - img "L-shaped Shelves" [ref=e86] [cursor=pointer]
+      - img "Living room" [ref=e88] [cursor=pointer]
+      - img "Livingroom Storage" [ref=e90] [cursor=pointer]
+      - img "Low Cupboards & Shelves" [ref=e92] [cursor=pointer]
+      - img "Modern Storage" [ref=e94] [cursor=pointer]
+      - img "Modern Wardrobe" [ref=e96] [cursor=pointer]
+      - img "Narrow Wardrobes" [ref=e98] [cursor=pointer]
+      - img "Nursery Cupboards & Shelves" [ref=e100] [cursor=pointer]
+      - img "Offset Shelf Unit" [ref=e102] [cursor=pointer]
+      - img "Ornate Corner Cabinet" [ref=e104] [cursor=pointer]
+      - img "Panelled Cabinet" [ref=e106] [cursor=pointer]
+      - img "Panelled Cupboards" [ref=e108] [cursor=pointer]
+      - img "Recessed Book Shelves" [ref=e110] [cursor=pointer]
+      - img "Screenshot_20210722_215419_com_edited" [ref=e112] [cursor=pointer]
+      - img "Shelves & Drawers" [ref=e114] [cursor=pointer]
+      - img "Shelves & Storage" [ref=e116] [cursor=pointer]
+      - img "Small Shelves" [ref=e118] [cursor=pointer]
+      - img "Understair Shoe Store" [ref=e120] [cursor=pointer]
+      - img "Wardrobe & Shelves" [ref=e122] [cursor=pointer]
+      - img "Wardrobe & Table" [ref=e124] [cursor=pointer]
+      - img "Wardrobe Doors" [ref=e126] [cursor=pointer]
+      - img "Wardrobe Sliding Doors" [ref=e128] [cursor=pointer]
+      - img "Wardrobe" [ref=e130] [cursor=pointer]
+      - img "Wine Bar" [ref=e132] [cursor=pointer]
+      - img "Fitted Kitchen" [ref=e134] [cursor=pointer]
+      - img "Kitchen & Shelves" [ref=e136] [cursor=pointer]
+      - img "Kitchen and Double Doors" [ref=e138] [cursor=pointer]
+      - img "Kitchen Front" [ref=e140] [cursor=pointer]
+      - img "Kitchen Side" [ref=e142] [cursor=pointer]
+      - img "Kitchen Worktop" [ref=e144] [cursor=pointer]
+      - img "Kitchen" [ref=e146] [cursor=pointer]
+      - img "Laminate Wood Floor" [ref=e148] [cursor=pointer]
+      - img "Laminate Wood Floor Side" [ref=e150] [cursor=pointer]
+      - img "Custom Frame" [ref=e152] [cursor=pointer]
+      - img "Custom Frame Edge" [ref=e154] [cursor=pointer]
+      - img "Door Catch" [ref=e156] [cursor=pointer]
+      - img "Door Handles" [ref=e158] [cursor=pointer]
+      - img "Hinge Side" [ref=e160] [cursor=pointer]
+      - img "Hinge Top" [ref=e162] [cursor=pointer]
+      - img "Natural Panel Door" [ref=e164] [cursor=pointer]
+      - img "Natural Wood Frame" [ref=e166] [cursor=pointer]
+      - img "Painted Front Door" [ref=e168] [cursor=pointer]
+      - img "Panelled Front Door" [ref=e170] [cursor=pointer]
+      - img "Solid Wood Door" [ref=e172] [cursor=pointer]
+      - img "Bannister" [ref=e174] [cursor=pointer]
+      - img "Bannister Side" [ref=e176] [cursor=pointer]
+      - img "Bench" [ref=e178] [cursor=pointer]
+      - img "Bottom Stair Gate" [ref=e180] [cursor=pointer]
+      - img "Built-in Storage" [ref=e182] [cursor=pointer]
+      - img "Glass Storage" [ref=e184] [cursor=pointer]
+      - img "Pallete Furniture" [ref=e186] [cursor=pointer]
+      - img "Stair Gate Closed" [ref=e188] [cursor=pointer]
+      - img "Stair Gate Open" [ref=e190] [cursor=pointer]
+      - img "Storage" [ref=e192] [cursor=pointer]
+      - img "Top Stair Gate" [ref=e194] [cursor=pointer]
+  - generic [ref=e195]:
+    - paragraph [ref=e196]: "\"Mica has almost become part of the family. He is incredibly friendly and hard working, and the quality of his work is exceptional.\""
+    - paragraph [ref=e197]: — George S
+  - generic [ref=e198]:
+    - heading "Contact Us" [level=2] [ref=e199]
+    - paragraph [ref=e201]:
+      - link "(+44) 7886 179038" [ref=e202] [cursor=pointer]:
+        - /url: tel:+447886179038
+    - generic [ref=e203]:
+      - textbox "Your Name" [ref=e204]
+      - textbox "Your Email" [ref=e205]
+      - textbox "Your Message" [ref=e206]
+      - button "Send Message" [ref=e207] [cursor=pointer]
+  - contentinfo [ref=e208]:
+    - paragraph [ref=e209]: © 2025 MJ & Sons Carpentry. All rights reserved.
